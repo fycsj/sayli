@@ -1,2 +1,5 @@
 # sayli
-foss practical
+
+fycs
+3025
+3033
